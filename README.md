@@ -1,6 +1,6 @@
 # Vietnam is expected to receive over 1.3 million COVID-19 vaccine doses in late March and more than 4.2 million shots in April.
 
-<b> The Expanded Program on Immunization (EPI) said on Tuesday that free vaccine doses provided by COVID-19 Vaccines Global Access (COVAX), will arrive in Vietnam in March and April.
+The Expanded Program on Immunization (EPI) said on Tuesday that free vaccine doses provided by COVID-19 Vaccines Global Access (COVAX), will arrive in Vietnam in March and April.
 
 Accordingly, 1,373,800 doses will be shipped to the country on March 25, and more than 2.8 million shots will arrive within April.
 
